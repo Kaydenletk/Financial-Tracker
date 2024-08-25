@@ -27,7 +27,7 @@ Personal Finance Tracker is a web application tailored to help students manage t
 ### Installation
 
 1. **Clone the Repository:**
-
+Clone
    ```bash
    git clone https://github.com/your-username/personal-finance-tracker.git
    cd personal-finance-tracker
@@ -44,33 +44,33 @@ Navigate to the server directory and install the dependencies
 
 Create a .env file in the server directory with the following content:
    ```bash
-MONGO_URL="http://mongodb+srv://khanhlee:De1c7eHMcglJlXK9@serverlessinstance0.quc6ila.mongodb.net/?retryWrites=true&w=majority&appName=ServerlessInstance0"
+   MONGO_URL="http://mongodb+srv://khanhlee:De1c7eHMcglJlXK9@serverlessinstance0.quc6ila.mongodb.net/?retryWrites=true&w=majority&appName=ServerlessInstance0"
    ```
 4. **Install Frontend Dependencies:**
 
 Navigate to the client directory and install the dependencies:
 
    ```bash
-cd ../client
-yarn install
+   cd ../client
+   yarn install
    ```
 5. **Start the Backend Server:**
 
 In the server directory:
 
  ```bash
-yarn start
+   yarn start
    ```
 6. **Start the Frontend Development Server:**
 
 In the client directory:
 
  ```bash
-yarn start
-Access the frontend at http://localhost:3000 and the backend API at http://localhost:4040.
+   yarn start
+   Access the frontend at http://localhost:3000 and the backend API at http://localhost:4040.
    ```
 ## Usage
-Open the application in your browser at http://localhost:3000.
+Open the application in your browser at http://localhost:3003.
 Use the form to add new transactions.
 Monitor your financial activities and budget directly through the app’s interface.
 Contributing
@@ -80,7 +80,8 @@ Fork the repository.
 Create a new branch for your feature or bug fix.
 Implement and test your changes.
 Submit a pull request with a detailed description of your modifications.
-License
+
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
