@@ -84,10 +84,10 @@ Submit a pull request with a detailed description of your modifications.
 
 ## Contact
 For any questions or feedback, reach out via:
----
-Email: kaydenletk@gmail.com
-Linkedin: https://www.linkedin.com/in/kaydenle/
----
-## Demo
+
+**Email:** kaydenletk@gmail.com
+**Linkedin:** https://www.linkedin.com/in/kaydenle/
+
+**Screenshot Demo**
 <img width="400" alt="Screenshot 2024-08-25 at 5 15 19 PM" src="https://github.com/user-attachments/assets/11acfe5f-e097-46b7-935e-ad06d04ef812">
 
