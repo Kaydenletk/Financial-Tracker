@@ -1,4 +1,4 @@
-# Personal Finance Tracker
+# FiTracker
 
 ## Overview
 
